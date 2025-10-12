@@ -1,0 +1,6 @@
+@article{wu2024cpd++,
+  title={Unsupervised 3D Object Detection by Commonsense Clue},
+  author={Wu, Hai and Zhao, Shijia and Huang, Xun and Xia, Qiming and Wen, Chenglu and Jiang, Li and Li, Xin and Wang, Cheng},
+  journal={TPAMI},
+  year={2025}
+}
