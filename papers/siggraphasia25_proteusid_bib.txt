@@ -1,6 +1,0 @@
-@inproceedings{zhang2025proteus,
-  title={Proteus-ID: ID-Consistent and Motion-Coherent Video Customization},
-  author={Zhang, Guiyu and Shi, Chen and Jiang, Zijian and Xiang, Xunzhi and Qian, Jingjing and Shi, Shaoshuai and Jiang, Li},
-  booktitle={SIGGRAPH Asia},
-  year={2025}
-}

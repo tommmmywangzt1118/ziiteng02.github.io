@@ -1,6 +1,0 @@
-@inproceedings{yang2024unified,
-  title={Unified Language-driven Zero-shot Domain Adaptation},
-  author={Yang, Senqiao and Tian, Zhuotao and Jiang, Li and Jia, Jiaya},
-  booktitle={CVPR},
-  year={2024}
-}
